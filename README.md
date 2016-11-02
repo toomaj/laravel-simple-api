@@ -3,5 +3,5 @@
 #### `TODO`
 
 
-####Realated project:
-### https://github.com/toomaj/laravel-ansible
+####Regatef project:
+###https://github.com/toomaj/laravel-ansible
